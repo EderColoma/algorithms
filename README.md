@@ -11,3 +11,12 @@
       &nbsp;&nbsp;— Francis Sullivan
    </i>
  </p>
+
+
+## Union Find
+
+The goal of this algorithm is to find if any two elements are connected. This problem is also called dynamic connectivity problem. This connection is an equivalence relationship. We assume that:
+
+1 - Symmetric: If p is connected to q, then q is also connected to p.<br>
+2 - Transitive: If p is connected to q and q is connected to r, p is connected to r as well.<br>
+3 - Reflexive: p is connected to p.<br>
