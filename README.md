@@ -20,3 +20,16 @@ The goal of this algorithm is to find if any two elements are connected. This pr
 1 - Symmetric: If p is connected to q, then q is also connected to p.<br>
 2 - Transitive: If p is connected to q and q is connected to r, p is connected to r as well.<br>
 3 - Reflexive: p is connected to p.<br>
+
+### Applications
+These types of algorithms help manipulating the objects of all types:
+
+<ul>
+    <li>Computers in a network</li>
+    <li>Elements in a mathematical set</li>
+    <li>Metallic sites in a composite system</li>
+    <li>Pixels in a digital photo</li>
+    <li>Friends in a social network</li>
+    <li>Transistors in a computer chip</li>
+    <li>Variable names in Fortran program</li>
+</ul>
